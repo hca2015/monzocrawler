@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonzoCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "-u https://crawlme.monzo.com --trace true -c 50"
+    }
+  }
+}
